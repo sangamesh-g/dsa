@@ -19,6 +19,14 @@ public class SearchingMethod {
         return -1;
     }
 
+     public static int binarySearchRecursive(int[] arr, int low, int high, int target) {
+        if (low > high) return -1;
+        int mid = (low + high) / 2;
+        if (arr[mid] == target) return mid;
+        if (arr[mid] < target) return binarySearchRecursive(arr, mid + 1, high, target);
+        return binarySearchRecursive(arr, low, mid - 1, target);
+    }
+    
     public static void main(String[] args) {
         int[] arr = {2, 4, 6, 8, 10, 12, 14};
         int target = 12;
@@ -29,5 +37,8 @@ public class SearchingMethod {
         System.out.println(linearSearch(arr, target));
         System.out.println(linearSearch(arr, target));
         System.out.println(linearSearch(arr, 0, arr.length - 1, target));
+        System.out.println(binarySearchRecursive(arr, target));
+        System.out.println(binarySearchRecursive(arr, target));
+        System.out.println(binarySearchRecursive(arr, 0, arr.length - 1, target));
     }
 }
