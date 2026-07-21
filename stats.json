@@ -1,1 +1,43 @@
-{"leetcode":{"easy":2,"hard":0,"medium":1,"shas":{"0001-two-sum":{"0001-two-sum.java":"478171899db5f2efc111348893871ae32eca0f08","README.md":"295832280eacc9b202138f15adc074a9cb24c66f"},"0643-maximum-average-subarray-i":{"0643-maximum-average-subarray-i.py":"6bb7c9668c981eb4d592c3d7a0b5a992d09fc1c8","README.md":"3f182a24a124ad25c7187ec2a29a8cf7f76721f2","difficulty":"easy"},"README.md":{"":"a9af18ebc0b48a6a2fe77ee5b4ad0d7bdc606f9b"},"1456-maximum-number-of-vowels-in-a-substring-of-given-length":{"1456-maximum-number-of-vowels-in-a-substring-of-given-length.py":"e4a4bae36546f64cdc3a0d4c91d56ab333f1260b","README.md":"ae4696eb2c671d7b6a48404e411b104b62ce5f8d","difficulty":"medium"},"0724-find-pivot-index":{"0724-find-pivot-index.py":"00255f0520f2d1f563829289e7d586f09e508e01","README.md":"7dddc8c0a65eb5409a3035e80b43b738e60ac2dc","difficulty":"easy"}},"solved":3}}
+{
+  "leetcode": {
+    "easy": 8,
+    "hard": 0,
+    "medium": 6,
+    "shas": {
+      "0001-two-sum": {
+        "0001-two-sum.java": "478171899db5f2efc111348893871ae32eca0f08",
+        "README.md": "295832280eacc9b202138f15adc074a9cb24c66f",
+        "difficulty": "easy"
+      },
+      "0003-longest-substring-without-repeating-characters": {},
+      "0007-reverse-integer": {},
+      "0169-majority-element": {},
+      "0424-longest-repeating-character-replacement": {},
+      "0438-find-all-anagrams-in-a-string": {},
+      "0567-permutation-in-string": {},
+      "0643-maximum-average-subarray-i": {
+        "0643-maximum-average-subarray-i.py": "6bb7c9668c981eb4d592c3d7a0b5a992d09fc1c8",
+        "README.md": "3f182a24a124ad25c7187ec2a29a8cf7f76721f2",
+        "difficulty": "easy"
+      },
+      "0724-find-pivot-index": {
+        "0724-find-pivot-index.py": "00255f0520f2d1f563829289e7d586f09e508e01",
+        "README.md": "7dddc8c0a65eb5409a3035e80b43b738e60ac2dc",
+        "difficulty": "easy"
+      },
+      "0796-rotate-string": {},
+      "1456-maximum-number-of-vowels-in-a-substring-of-given-length": {
+        "1456-maximum-number-of-vowels-in-a-substring-of-given-length.py": "e4a4bae36546f64cdc3a0d4c91d56ab333f1260b",
+        "README.md": "ae4696eb2c671d7b6a48404e411b104b62ce5f8d",
+        "difficulty": "medium"
+      },
+      "1480-running-sum-of-1d-array": {},
+      "1920-build-array-from-permutation": {},
+      "1929-concatenation-of-array": {},
+      "README.md": {
+        "": "a9af18ebc0b48a6a2fe77ee5b4ad0d7bdc606f9b"
+      }
+    },
+    "solved": 14
+  }
+}
