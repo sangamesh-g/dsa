@@ -12,3 +12,10 @@ class Solution:
             suffix*=nums[i]
 
         return ans
+
+    # exceeded time{o(n2)}
+    def productExcept(self, nums: List[int]) -> List[int]:
+        ans=[]
+        for i in range(len(nums)):
+            ans.append(prod(nums[:i]+nums[i+1:]))
+        return ans
