@@ -9,20 +9,17 @@ class Solution:
         global_min = nums[0]
         
         for num in nums:
-            total_sum += num
+            total_sum+=num
+
+            curr_max=max(num,curr_max+num)
+            if curr_max>global_max:
+                global_max=curr_max
             
-            # Standard Kadane's for Maximum Subarray
-            curr_max = max(num, curr_max + num)
-            global_max = max(global_max, curr_max)
+            curr_min=min(num,curr_min+num)
+            if curr_min<global_min:
+                global_min=curr_min
             
-            # Inverted Kadane's for Minimum Subarray
-            curr_min = min(num, curr_min + num)
-            global_min = min(global_min, curr_min)
-        
-        # Edge Case: If all numbers are negative, global_max will be negative,
-        # and total_sum - global_min will result in 0 (an empty subarray).
-        # We must return global_max in this case because non-empty is required.
-        if global_max < 0:
+        if global_max<0:
             return global_max
-            
-        return max(global_max, total_sum - global_min)
+
+        return max(global_max,total_sum-global_min)
