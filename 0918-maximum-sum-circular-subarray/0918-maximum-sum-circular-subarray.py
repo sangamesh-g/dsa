@@ -22,4 +22,4 @@ class Solution:
         if global_max<0:
             return global_max
 
-        return max(global_max,total_sum-global_min)
+        return global_max if global_max>total_sum-global_min else total_sum-global_min
