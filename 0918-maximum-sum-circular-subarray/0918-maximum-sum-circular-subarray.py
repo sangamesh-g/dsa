@@ -11,11 +11,11 @@ class Solution:
         for num in nums:
             total_sum+=num
 
-            curr_max=max(num,curr_max+num)
+            curr_max=curr_max+num if curr_max>0 else num
             if curr_max>global_max:
                 global_max=curr_max
             
-            curr_min=min(num,curr_min+num)
+            curr_min=curr_min+num if curr_min+num<num else num
             if curr_min<global_min:
                 global_min=curr_min
             
