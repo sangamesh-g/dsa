@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sangamesh-g/dsa/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/sangameshghulle/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sangameshghulle/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sangameshghulle/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sangameshghulle/dsa/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
