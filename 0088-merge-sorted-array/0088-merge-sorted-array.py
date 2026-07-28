@@ -6,7 +6,7 @@ class Solution:
         num=nums1[:m]
         nums2=nums2[:n]
         i=j=k=0
-        for _ in range(m+n):
+        while(k<=(m+n-1)):
             if j<=(n-1) and i<=(m-1) and num[i]>=nums2[j]:
                 nums1[k]=nums2[j]
                 j+=1
