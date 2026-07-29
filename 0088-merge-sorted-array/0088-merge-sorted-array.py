@@ -3,14 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        i=m-1
-        j=n-1
-        k=m+n-1
-        while j>=0:
-            if i>=0 and nums1[i]>=nums2[j]:
-                nums1[k]=nums1[i]
-                i-=1
-            else:
+        num=nums1[:m]
+        nums2=nums2[:n]
+        i=j=k=0
+        for _ in range(m+n):
+            if j<=(n-1) and i<=(m-1) and num[i]>=nums2[j]:
                 nums1[k]=nums2[j]
-                j-=1
-            k-=1
+                j+=1
+                k+=1
+            elif i<=(m-1) and j<=(n-1) and num[i]<=nums2[j]:
+                nums1[k]=num[i]
+                k+=1
+                i+=1
+            elif i>=m or j>=n:
+                if i>=m:
+                    for x in nums2[j:]:
+                        nums1[k]=x
+                        k+=1
+                if j>=n:
+                    for y in num[i:]:
+                        nums1[k]=y
+                        k+=1
+                break
