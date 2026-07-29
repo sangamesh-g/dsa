@@ -1,12 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        map=defaultdict(int)
-        j=0
-        while j<len(nums):
-            map[nums[j]]+=1
-            if map[nums[j]]>2:
-                map[nums[j]]-=1
+        j=2
+        i=len(nums)-1
+        while(j<len(nums)):
+            if nums[j]==nums[j-2]:
                 del nums[j]
             else:
                 j+=1
-        return len(nums)
