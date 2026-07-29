@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sangameshghulle/dsa/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/sangameshghulle/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/sangameshghulle/dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sangameshghulle/dsa/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
