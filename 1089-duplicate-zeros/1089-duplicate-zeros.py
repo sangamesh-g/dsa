@@ -3,16 +3,11 @@ class Solution:
         """
         Do not return anything, modify arr in-place instead.
         """
-        i=0
-        length=len(arr)
         nums=[]
         for n in arr:
-            if length<=i:
+            if len(nums)>=len(arr):
                 break
-            if length>i:
-                nums.append(n)
-                i+=1
-                if length>i and n==0:
-                    nums.append(0)
-                    i+=1
-        arr[:]=nums
+            nums.append(n)
+            if n==0:
+                nums.append(0)
+        arr[:]=nums[:len(arr)]
