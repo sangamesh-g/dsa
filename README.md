@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sangameshghulle/dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sangameshghulle/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0283-move-zeroes/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sangameshghulle/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sangamesh-g/dsa/tree/main/0567-permutation-in-string/) | Medium |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sangamesh-g/dsa/tree/main/0007-reverse-integer/) | Medium |
+| [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sangameshghulle/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
