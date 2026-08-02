@@ -4,5 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n=len(nums)
-        for i in range(k):
-            nums.insert(0,nums.pop())
+        k%=n
+        arr1=nums[n-k:]
+        arr1.extend(nums[:n-k])
+        nums[:]=arr1[:]
