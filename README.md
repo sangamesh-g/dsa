@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sangameshghulle/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sangameshghulle/dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sangameshghulle/dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
