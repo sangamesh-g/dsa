@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sangameshghulle/dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sangamesh-g/dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/sangamesh-g/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sangameshghulle/dsa/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sangameshghulle/dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sangamesh-g/dsa/tree/main/0567-permutation-in-string/) | Medium |
+| [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## String
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sangameshghulle/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
