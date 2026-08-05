@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sangamesh-g/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sangamesh-g/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sangamesh-g/dsa/tree/main/1929-concatenation-of-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/sangameshghulle/dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [3731-find-missing-elements](https://github.com/sangameshghulle/dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
+| [3731-find-missing-elements](https://github.com/sangameshghulle/dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
