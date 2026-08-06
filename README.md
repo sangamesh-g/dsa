@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sangameshghulle/dsa/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/sangameshghulle/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/sangameshghulle/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/sangameshghulle/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/sangamesh-g/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sangamesh-g/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
@@ -171,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
