@@ -3,4 +3,6 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+        
+        print([list(row) for row in zip(matrix)])
         matrix[:]=[row[::-1] for row in zip(*matrix)]
