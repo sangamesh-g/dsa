@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/sangameshghulle/dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sangameshghulle/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sangamesh-g/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/sangameshghulle/dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sangamesh-g/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sangamesh-g/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/sangameshghulle/dsa/tree/main/3731-find-missing-elements/) | Easy |
@@ -178,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sangameshghulle/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/sangameshghulle/dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
