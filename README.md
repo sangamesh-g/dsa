@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sangameshghulle/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0463-island-perimeter](https://github.com/sangameshghulle/dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sangameshghulle/dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -184,8 +185,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sangameshghulle/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0463-island-perimeter](https://github.com/sangameshghulle/dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/sangameshghulle/dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/sangameshghulle/dsa/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sangameshghulle/dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sangameshghulle/dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/sangameshghulle/dsa/tree/main/0463-island-perimeter/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/sangameshghulle/dsa/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
