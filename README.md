@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sangamesh-g/dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/sangamesh-g/dsa/tree/main/0724-find-pivot-index/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/sangameshghulle/dsa/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sangameshghulle/dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sangameshghulle/dsa/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sangameshghulle/dsa/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/sangameshghulle/dsa/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sangameshghulle/dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sangameshghulle/dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
