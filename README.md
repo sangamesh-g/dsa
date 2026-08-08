@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sangameshghulle/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sangameshghulle/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/sangameshghulle/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/sangameshghulle/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sangameshghulle/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/sangameshghulle/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/sangameshghulle/dsa/tree/main/0463-island-perimeter/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/sangameshghulle/dsa/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
