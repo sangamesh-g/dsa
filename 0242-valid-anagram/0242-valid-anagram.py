@@ -13,8 +13,7 @@ class Solution:
         
         # return Counter(s)==Counter(t)
 
-        str=set(s)
-        for i in str:
+        for i in set(s):
             if s.count(i)!=t.count(i):
                 return False
         return True
