@@ -11,4 +11,10 @@ class Solution:
         if len(s)!=len(t):
             return False
         
-        return Counter(s)==Counter(t)
+        # return Counter(s)==Counter(t)
+
+        str=set(s)
+        for i in str:
+            if s.count(i)!=t.count(i):
+                return False
+        return True
