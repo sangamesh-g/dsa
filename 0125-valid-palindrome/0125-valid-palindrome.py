@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        s=s.lower()
         i=0
         j=len(s)-1
         while i<j:
@@ -8,9 +9,8 @@ class Solution:
 
             while i<j and not s[j].isalnum():
                 j-=1
-            print(s[i],s[j])
 
-            if s[i].isalnum() and s[j].isalnum() and s[i].lower()!=s[j].lower():
+            if s[i]!=s[j]:
                 return False
             i+=1
             j-=1
