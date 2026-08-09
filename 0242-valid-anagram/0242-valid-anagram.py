@@ -8,4 +8,7 @@ class Solution:
         #     tfreq[j]=tfreq.get(j,0)+1
         # return True if sfreq==tfreq else False
 
+        if len(s)!=len(t):
+            return False
+        
         return Counter(s)==Counter(t)
