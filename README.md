@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sangameshghulle/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangamesh-g/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sangameshghulle/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/sangameshghulle/dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
