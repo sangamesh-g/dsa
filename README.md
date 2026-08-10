@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sangamesh-g/dsa/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sangameshghulle/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sangameshghulle/dsa/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/sangameshghulle/dsa/tree/main/0041-first-missing-positive/) | Hard |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangamesh-g/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/sangameshghulle/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/sangameshghulle/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sangameshghulle/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sangameshghulle/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
