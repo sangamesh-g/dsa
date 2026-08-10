@@ -4,9 +4,10 @@ class Solution:
             return -1
         
         n=len(s)
+        count=Counter(s)
         for i in range(n):
-            if s.count(s[i])==1:
-                return i                
+            if count[s[i]]==1:
+                return i
 
         return -1
         
