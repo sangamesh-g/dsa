@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0415-add-strings](https://github.com/sangameshghulle/dsa/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sangameshghulle/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sangameshghulle/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
+| [0415-add-strings](https://github.com/sangameshghulle/dsa/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sangameshghulle/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sangameshghulle/dsa/tree/main/0054-spiral-matrix/) | Medium |
+| [0415-add-strings](https://github.com/sangameshghulle/dsa/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/sangameshghulle/dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sangameshghulle/dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sangamesh-g/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
