@@ -15,8 +15,6 @@ class Solution:
         
         elif i<n and s[i]=='+':
             i+=1
-            if i>=n or not s[i].isdigit():  
-                return 0
 
         limit = 2147483648 if neg else 2147483647
 
