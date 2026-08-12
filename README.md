@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangamesh-g/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/sangameshghulle/dsa/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sangameshghulle/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/sangameshghulle/dsa/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/sangameshghulle/dsa/tree/main/0049-group-anagrams/) | Medium |
