@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/sangameshghulle/dsa/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sangameshghulle/dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/sangamesh-g/dsa/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/sangameshghulle/dsa/tree/main/0647-palindromic-substrings/) | Medium |
 | [0686-repeated-string-match](https://github.com/sangameshghulle/dsa/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/sangamesh-g/dsa/tree/main/0796-rotate-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sangamesh-g/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sangamesh-g/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sangameshghulle/dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/sangamesh-g/dsa/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/sangameshghulle/dsa/tree/main/0647-palindromic-substrings/) | Medium |
 | [1089-duplicate-zeros](https://github.com/sangameshghulle/dsa/tree/main/1089-duplicate-zeros/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sangameshghulle/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sangameshghulle/dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sangameshghulle/dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0647-palindromic-substrings](https://github.com/sangameshghulle/dsa/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sangameshghulle/dsa/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
