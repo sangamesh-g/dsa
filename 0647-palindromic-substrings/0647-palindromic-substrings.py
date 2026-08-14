@@ -6,7 +6,7 @@ class Solution:
             left=i
             right=i
             while left>=0 and right<n and s[left]==s[right]:
-                print(s[left],s[right],ans)
+                # print(s[left],s[right],ans)
                 ans+=1
                 left-=1
                 right+=1
@@ -14,7 +14,7 @@ class Solution:
             left_=i
             right_=i+1
             while left_>=0 and right_<n and s[left_]==s[right_]:
-                print(s[left_],s[right_],ans)
+                # print(s[left_],s[right_],ans)
                 ans+=1
                 left_-=1
                 right_+=1
