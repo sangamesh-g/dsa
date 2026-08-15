@@ -7,7 +7,11 @@ class Solution:
         #     d[i]=1
         # return False
 
-        return len(set(nums))!=len(nums)
+        # return len(set(nums))!=len(nums)
 
-        # s=set()
-        # for i in nums:
+        s=set()
+        for i in nums:
+            if i in s:
+                return True
+            s.add(i)
+        return False
