@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sangameshghulle/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/sangameshghulle/dsa/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sangameshghulle/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sangameshghulle/dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/sangameshghulle/dsa/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sangameshghulle/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sangamesh-g/dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/sangameshghulle/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/sangameshghulle/dsa/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/sangameshghulle/dsa/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sangameshghulle/dsa/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
