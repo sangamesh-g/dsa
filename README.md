@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sangameshghulle/dsa/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -269,18 +270,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/sangameshghulle/dsa/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/sangameshghulle/dsa/tree/main/0686-repeated-string-match/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/sangameshghulle/dsa/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/sangameshghulle/dsa/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/sangameshghulle/dsa/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/sangameshghulle/dsa/tree/main/0686-repeated-string-match/) | Medium |
 ## Boyer–Moore String-Search Algorithm
@@ -292,4 +296,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangameshghulle/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
