@@ -26,8 +26,6 @@ class Solution:
         r=0
         for r in range(n):
             if s[:n-r]==rev[r:]:
-                # print(s[:n-r],rev[r:],r)
-                break
-        t=rev[:r]
-        # print(t)
-        return t+s
+                return rev[:r]+s
+        return ""
+        
