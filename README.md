@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sangameshghulle/dsa/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/sangameshghulle/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sangameshghulle/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0283-move-zeroes/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sangameshghulle/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sangameshghulle/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/sangameshghulle/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sangameshghulle/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/sangameshghulle/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sangameshghulle/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sangameshghulle/dsa/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/sangameshghulle/dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
