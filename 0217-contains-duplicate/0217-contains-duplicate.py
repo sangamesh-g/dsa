@@ -8,3 +8,6 @@ class Solution:
         # return False
 
         return len(set(nums))!=len(nums)
+
+        # s=set()
+        # for i in nums:
