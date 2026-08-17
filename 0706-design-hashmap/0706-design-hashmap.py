@@ -5,14 +5,23 @@ class MyHashMap:
 
     def put(self, key: int, value: int) -> None:
         index=key%779
-        flag=True
         for k in range(len(self.bucket[index])):
             if self.bucket[index][k][0]==key:
                 self.bucket[index][k][1]=value
-                flag=False
                 break
-        if flag:
+        else:
             self.bucket[index].append([key,value])
+
+    # def put(self, key: int, value: int) -> None:
+    #     index=key%779
+    #     flag=True
+    #     for k in range(len(self.bucket[index])):
+    #         if self.bucket[index][k][0]==key:
+    #             self.bucket[index][k][1]=value
+    #             flag=False
+    #             break
+    #     if flag:
+    #         self.bucket[index].append([key,value])
 
     def get(self, key: int) -> int:
         index=key%779
