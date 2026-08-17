@@ -1,10 +1,10 @@
 class MyHashMap:
 
     def __init__(self):
-        self.bucket=[[] for _ in range(1000)]
+        self.bucket=[[] for _ in range(779)]
 
     def put(self, key: int, value: int) -> None:
-        index=key%1000
+        index=key%779
         flag=True
         for k in range(len(self.bucket[index])):
             if self.bucket[index][k][0]==key:
@@ -13,17 +13,16 @@ class MyHashMap:
                 break
         if flag:
             self.bucket[index].append([key,value])
-        print(self.bucket[index])
 
     def get(self, key: int) -> int:
-        index=key%1000
+        index=key%779
         for k in self.bucket[index]:
             if k[0]==key:
                 return k[1]
         return -1       
 
     def remove(self, key: int) -> None:
-        index=key%1000
+        index=key%779
         for k in self.bucket[index]:
             if k[0]==key:
                 self.bucket[index].remove(k)
