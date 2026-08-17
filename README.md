@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sangameshghulle/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sangamesh-g/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sangameshghulle/dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/sangameshghulle/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/sangamesh-g/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sangamesh-g/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/sangameshghulle/dsa/tree/main/3731-find-missing-elements/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sangameshghulle/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/sangameshghulle/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [3731-find-missing-elements](https://github.com/sangameshghulle/dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sangamesh-g/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/sangameshghulle/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
