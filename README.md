@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sangameshghulle/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/sangameshghulle/dsa/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sangameshghulle/dsa/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/sangamesh-g/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/sangameshghulle/dsa/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sangameshghulle/dsa/tree/main/0867-transpose-matrix/) | Easy |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sangameshghulle/dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sangameshghulle/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/sangameshghulle/dsa/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sangameshghulle/dsa/tree/main/0706-design-hashmap/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/sangameshghulle/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/sangameshghulle/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sangameshghulle/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0705-design-hashset](https://github.com/sangameshghulle/dsa/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sangameshghulle/dsa/tree/main/0706-design-hashmap/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0214-shortest-palindrome/) | Hard |
 | [0705-design-hashset](https://github.com/sangameshghulle/dsa/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sangameshghulle/dsa/tree/main/0706-design-hashmap/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/sangameshghulle/dsa/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sangameshghulle/dsa/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
