@@ -3,12 +3,9 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        # n=len(s)
-        # for i in range(n//2):
-        #     s[i],s[n-i-1]=s[n-i-1],s[i]
-
+        n=len(s)
         l=0
-        r=len(s)-1
+        r=n-1
         while l<r:
             s[l],s[r]=s[r],s[l]
             l+=1
