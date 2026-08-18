@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sangamesh-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
