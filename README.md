@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangamesh-g/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sangamesh-g/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangamesh-g/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
