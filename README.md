@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
@@ -44,8 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -64,8 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -86,8 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sangameshghulle/dsa/tree/main/0141-linked-list-cycle/) | Easy |
@@ -107,15 +107,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -124,13 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangameshghulle/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -156,8 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
@@ -172,8 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/sangameshghulle/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sangameshghulle/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -181,12 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangameshghulle/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Timsort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -194,8 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sangameshghulle/dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
@@ -203,17 +203,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/sangameshghulle/dsa/tree/main/0278-first-bad-version/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0074-search-a-2d-matrix](https://github.com/sangameshghulle/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangameshghulle/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -237,8 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sangameshghulle/dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
@@ -249,17 +249,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/sangameshghulle/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sangameshghulle/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sangameshghulle/dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
@@ -280,8 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -289,36 +290,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sangameshghulle/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Tournament Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangameshghulle/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0682-baseball-game](https://github.com/sangameshghulle/dsa/tree/main/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/sangameshghulle/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sangameshghulle/dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -326,8 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sangameshghulle/dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -336,52 +338,54 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Range Minimum/Maximum Query
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
