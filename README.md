@@ -2,73 +2,427 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/sangameshghulle/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangamesh-g/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sangameshghulle/dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sangameshghulle/dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sangameshghulle/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sangamesh-g/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sangameshghulle/dsa/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/sangameshghulle/dsa/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/sangameshghulle/dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sangameshghulle/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sangameshghulle/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sangamesh-g/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/sangameshghulle/dsa/tree/main/1046-last-stone-weight/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sangameshghulle/dsa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/sangameshghulle/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sangamesh-g/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sangameshghulle/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sangameshghulle/dsa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sangamesh-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/sangameshghulle/dsa/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/sangameshghulle/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/sangameshghulle/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sangameshghulle/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangameshghulle/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sangamesh-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
+| [0141-linked-list-cycle](https://github.com/sangameshghulle/dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sangameshghulle/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sangameshghulle/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sangameshghulle/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sangameshghulle/dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/sangameshghulle/dsa/tree/main/0567-permutation-in-string/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/sangameshghulle/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sangamesh-g/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sangameshghulle/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/sangameshghulle/dsa/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangamesh-g/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sangameshghulle/dsa/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/sangameshghulle/dsa/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/sangameshghulle/dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sangameshghulle/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sangameshghulle/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/sangameshghulle/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sangameshghulle/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sangamesh-g/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sangameshghulle/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/sangameshghulle/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/sangameshghulle/dsa/tree/main/0278-first-bad-version/) | Easy |
+| [0704-binary-search](https://github.com/sangameshghulle/dsa/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sangameshghulle/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0402-remove-k-digits](https://github.com/sangameshghulle/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sangameshghulle/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangameshghulle/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sangameshghulle/dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/sangameshghulle/dsa/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sangameshghulle/dsa/tree/main/0278-first-bad-version/) | Easy |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sangameshghulle/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sangameshghulle/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/sangameshghulle/dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/sangameshghulle/dsa/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/sangameshghulle/dsa/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sangameshghulle/dsa/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sangameshghulle/dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/sangameshghulle/dsa/tree/main/0086-partition-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/sangameshghulle/dsa/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/sangameshghulle/dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sangameshghulle/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sangameshghulle/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/sangameshghulle/dsa/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/sangameshghulle/dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/sangameshghulle/dsa/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/sangameshghulle/dsa/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sangameshghulle/dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sangameshghulle/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sangameshghulle/dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/sangameshghulle/dsa/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/sangameshghulle/dsa/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sangameshghulle/dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sangameshghulle/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0682-baseball-game](https://github.com/sangameshghulle/dsa/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/sangameshghulle/dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangameshghulle/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/sangameshghulle/dsa/tree/main/1046-last-stone-weight/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sangameshghulle/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sangameshghulle/dsa/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/sangameshghulle/dsa/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0226-invert-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangameshghulle/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangameshghulle/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sangameshghulle/dsa/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/sangameshghulle/dsa/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sangameshghulle/dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sangameshghulle/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/sangameshghulle/dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/sangameshghulle/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sangameshghulle/dsa/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sangameshghulle/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangameshghulle/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sangameshghulle/dsa/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/sangameshghulle/dsa/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sangameshghulle/dsa/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/sangameshghulle/dsa/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sangameshghulle/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sangameshghulle/dsa/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sangameshghulle/dsa/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0226-invert-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
