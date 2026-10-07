@@ -9,16 +9,15 @@ class Solution:
         if not root:
             return 0
 
-        dia=0
+        self.dia=0
 
         def dfs(node):
-            nonlocal dia
             if not node:
                 return 0
             l,r=dfs(node.left),dfs(node.right)
-            dia=max(dia,l+r)
+            self.dia=max(self.dia,l+r)
             return 1+max(l,r)
         
         dfs(root)
 
-        return dia
+        return self.dia
